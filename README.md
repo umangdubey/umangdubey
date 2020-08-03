@@ -31,7 +31,7 @@
 
 ---
 ### Languages and Tools:
-<code><img  width="50px" alt="Python" src="https://miro.medium.com/max/750/1*QYOB_HwZQxHGmBWA5WJt3Q.png" /></code>
+<code><img  width="50px" alt="Python" src="https://images.squarespace-cdn.com/content/v1/58a3826fd2b857e5fe09f025/1488135254419-N8YYE3VW6GJRW487OPGH/ke17ZwdGBToddI8pDm48kKqpPJPP3bqLV7KargyN2dFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PInyc6lAokWQ1dDK5_fijJtkqnzhKeiBKmDdTsgCmmwjUKMshLAGzx4R3EDFOm1kBS/Python+Workshop.jpg?format=1500w" /></code>
 <code><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <code><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
