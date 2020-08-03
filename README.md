@@ -14,12 +14,12 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/umang-dubey-7b1466118/">
-  <img align="left" width="20px" src="" />
+  <img align="left" width="20px" src="https://github.com/umangdubey/ReadME_md/blob/master/linkedin.svg" />
 </a>
 
 
 <a href="https://www.hackerrank.com/umang_2dubey" /">
-  <img align="left" width="21px" src="" />
+  <img align="left" width="21px" src="https://github.com/umangdubey/ReadME_md/blob/master/iconfinder_160_Hackerrank_logo_logos_4373234.svg" />
 </a>
 <br />
 <br />
