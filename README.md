@@ -45,5 +45,5 @@
 <br />
 
 ---
-[![Umang's github stats](https://github-readme-stats.vercel.app/api?username=umangdubey)](https://github.com/umangdubey/github-readme-stats)
+![Umang's github stats](https://github-readme-stats.vercel.app/api?username=umangdubey&show_icons=true&theme=dracula)
 ---
