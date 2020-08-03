@@ -18,18 +18,15 @@
 </a>
 
 
-<a href="https://www.hackerrank.com/umang_2dubey" /">
+<a href="https://www.hackerrank.com/umang_2dubey">
   <img align="left" width="21px" src="https://github.com/umangdubey/ReadME_md/blob/master/iconfinder_160_Hackerrank_logo_logos_4373234.svg" />
+</a>
+<a href="https://www.hackerearth.com/@umang.2dubey">                                                                                                                                    
+<img align="left" alt="Hacker earth" width="22px" src="https://www.betterteam.com/i/hackerearth-1024x512-20190109.jpg" />
 </a>
 <br />
 <br />
 <p > 
-
-
-[<img align="left" alt="Hacker earth" width="22px" src="https://www.hackerearth.com/@umang.2dubey" />][Hacker earth]
-
-
-
 <br />
 
 ### Languages and Tools:
