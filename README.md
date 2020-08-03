@@ -22,7 +22,7 @@
   <img align="left" width="21px" src="https://github.com/umangdubey/ReadME_md/blob/master/iconfinder_160_Hackerrank_logo_logos_4373234.svg" />
 </a>
 <a href="https://www.hackerearth.com/@umang.2dubey">                                                                                                                                    
-<img align="left" alt="Hacker earth" width="22px" src="https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2015/09/hackerearth_old_logo.jpg" />
+<img align="left" alt="Hacker earth" width="100px" src="https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2015/09/hackerearth_old_logo.jpg" />
 </a>
 <br />
 <br />
