@@ -13,8 +13,19 @@
 
 ### Connect with me:
 
-[<img align="left" alt="| LinkedIn" width="22px" src="https://www.linkedin.com/in/umang-dubey-7b1466118/" />][linkedin]
-[<img align="left" alt="| Hacker rank" width="22px" src="https://www.hackerrank.com/umang_2dubey" />][Hackerank]
+<a href="https://www.linkedin.com/in/umang-dubey-7b1466118/">
+  <img align="left" width="20px" src="" />
+</a>
+
+
+<a href="https://www.hackerrank.com/umang_2dubey" /">
+  <img align="left" width="21px" src="" />
+</a>
+<br />
+<br />
+<p > 
+
+
 [<img align="left" alt="Hacker earth" width="22px" src="https://www.hackerearth.com/@umang.2dubey" />][Hacker earth]
 
 
