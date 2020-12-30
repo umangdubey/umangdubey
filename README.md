@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning everything.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read and do Statistics
+- Analyttica dataLab inc hackathon winner.
 - 📫 Reach me: [umang.2dubey@gmail.com](mailto:umang.2dubey@gmail.com)
 - 💬 Ask me about anything [here](https://github.com/umangdubey/umangdubey/issues)
 
