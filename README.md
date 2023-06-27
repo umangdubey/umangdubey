@@ -3,10 +3,9 @@
 <img src="https://komarev.com/ghpvc/?username=umangdubey&color=brightgreen&style=plastic" />
 </p>
 
-## I'm a Student ,Developer and Machine Learning enthusiast!
-- 🔭 I’m currently working on a Deep learning!
-- 🌱 I’m currently learning everything.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+## I'm a Experienced ,Developer and Machine Learning enthusiast!
+- 🔭 I’m currently working on a NLP project!
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read and do Statistics
 - Analyttica dataLab inc hackathon winner.
 - 📫 Reach me: [umang.2dubey@gmail.com](mailto:umang.2dubey@gmail.com)
